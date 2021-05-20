@@ -1,0 +1,15 @@
+= Writer's Checklist
+
+Before you merge your content, did you...?
+
+* Perform a local build and do a final visual check of your content, including checking for:
+** Broken images
+** Dead links
+** Formatting issues, for example, misnumbered ordered lists (steps) and messed up tables
+* Run the link checker to check for broken xrefs
+* Receive final review and signoff from:
+** Technical SME
+** Product Manager
+** Editor or peer reviewer
+** Reporter if this content is in response to a reported issue (internal or external feedback)
+* Verify that the software actually got released
